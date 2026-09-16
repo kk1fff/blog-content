@@ -3,6 +3,13 @@ site:
   description: Notes on building dependable backend systems, learning in public,
     and the ideas that make software simpler.
   language: en
+  author:
+    greeting: Hi, I’m Chihkai.
+    bio: I’m a seasoned software engineer, building dependable systems and sharing
+      the tools, lessons, and ideas that make software simpler.
+    links:
+      github: https://github.com/kk1fff
+      linkedin: https://www.linkedin.com/in/ckaiwang
 theme: journal
 publishing:
   mode: push
