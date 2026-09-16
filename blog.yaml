@@ -7,3 +7,5 @@ theme: journal
 publishing:
   mode: push
   productionBranch: main
+githubPages:
+  productionBranch: main
