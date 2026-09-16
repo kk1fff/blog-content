@@ -1,0 +1,9 @@
+site:
+  title: Chihkai's blog
+  description: Notes on building dependable backend systems, learning in public,
+    and the ideas that make software simpler.
+  language: en
+theme: journal
+publishing:
+  mode: push
+  productionBranch: main
