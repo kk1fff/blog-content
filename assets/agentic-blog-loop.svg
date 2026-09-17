@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 710" role="img" aria-labelledby="title desc">
+  <title id="title">The local agentic blog authoring loop</title>
+  <desc id="desc">You provide a request to an agent. The agent creates a Markdown post, which receives a local production render and then preview and review. Feedback returns to the agent. Approved content is published through GitHub Pages.</desc>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10z" fill="#2563eb"/></marker></defs>
+  <style>.node{fill:#fff;stroke:#cbd5e1;stroke-width:2}.text{fill:#0b1220;font:600 28px Inter,Arial,sans-serif;text-anchor:middle}.label{fill:#2563eb;font:600 20px Inter,Arial,sans-serif}.line{fill:none;stroke:#2563eb;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#arrow)}.divider{stroke:#cbd5e1;stroke-width:2;stroke-dasharray:6 8}</style>
+  <rect x="75" y="32" width="450" height="70" rx="14" class="node"/><text x="300" y="77" class="text">You</text><path d="M300 102V133" class="line"/>
+  <rect x="75" y="144" width="450" height="70" rx="14" class="node"/><text x="300" y="189" class="text">Agent</text><path d="M300 214V245" class="line"/>
+  <rect x="75" y="256" width="450" height="70" rx="14" class="node"/><text x="300" y="301" class="text">Markdown post</text><path d="M300 326V357" class="line"/>
+  <rect x="75" y="368" width="450" height="70" rx="14" class="node"/><text x="300" y="413" class="text">Local production render</text><path d="M300 438V469" class="line"/>
+  <rect x="75" y="480" width="450" height="70" rx="14" class="node"/><text x="300" y="525" class="text">Preview + review</text>
+  <path d="M75 515H38V179H64" class="line"/><text x="18" y="360" class="label" transform="rotate(-90 18 360)">feedback</text>
+  <path d="M50 584H550" class="divider"/>
+  <text x="300" y="615" class="label" text-anchor="middle">Approved content</text>
+  <text x="300" y="642" class="label" text-anchor="middle">&#8595;</text>
+  <text x="300" y="669" class="label" text-anchor="middle">GitHub Pages publish</text>
+  <text x="300" y="696" class="label" text-anchor="middle">&#8595; Public blog</text>
+</svg>
