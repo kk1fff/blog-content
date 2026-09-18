@@ -16,3 +16,9 @@ publishing:
   productionBranch: main
 githubPages:
   productionBranch: main
+comments:
+  giscus:
+    repo: kk1fff/blog-content
+    repoId: R_kgDOUc8BTw
+    category: Announcements
+    categoryId: DIC_kwDOUc8BT84DF13p
