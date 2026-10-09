@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "publicationId": "bdea21bf8760d389bc53c266071ca94d956ee2f350f4b3ef3ecda656d557801d",
+  "engine": {
+    "repository": "https://github.com/kk1fff/blog.git",
+    "commit": "cbe1be3c61dccfcf9507351f50cc6df9fefdd0a0"
+  },
+  "buildEnvironment": {
+    "PUBLIC_CLOUDFLARE_WEB_ANALYTICS_TOKEN": "c40a2835b9824b80a470510f9e10e3db"
+  },
+  "expectedTree": {
+    ".github/workflows/deploy.yml": "53cc1ae4bca3008ec5c0cd4fb98b44ef0b7d88c513b8b7c2e5adaa27d7b7f2c7",
+    ".gitignore": "cf237c7aff44efbe6e502e645c3e06da03a69d7bdeb43392108ef3348143417e",
+    "assets/agentic-blog-loop.svg": "126cbd78fd53a290a9a4cc6ac683ddfa506222323c5367f286802a6871bca257",
+    "assets/engineers-note-mark.svg": "3a8b119612f60da991f65c4c716eb655d83cdaa9c74f11c4a428228d518997c8",
+    "assets/trip-overview-phone.svg": "c8d5242ebc640a53b2c3b5aa4bdc1ef6a13d57b59d1b8100a4a75e21c1ba18e7",
+    "assets/trip-overview.svg": "668462bd3babbcd1df48f76388ed0f21051860bda48918ba013fc5ae530d8fd3",
+    "assets/trip-phone-example.webp": "bd4508d6bb7a2fafd0cc4e80c2f2471c6370abe3b87f3b821b0b3c493608dc0f",
+    "assets/trip-planning-phone.svg": "6d9b74f0a3201f5bfff31ae39d344dec149e58060ff50c4a36fd2b8effd32088",
+    "assets/trip-planning.svg": "5692dcef1f1ab2ea22fdc607fbebcd918286a5c3070756f25a9fca256fc573ce",
+    "assets/trip-project-phone.svg": "240e9c35daa2a5de2ec2476ce0f2ee7e49a93c98e94fbc937cee143fceef1bcf",
+    "assets/trip-project.svg": "284462cf2dbdfd3de8d7c0387ade3f3847c3b8a754b9145412d7eeb84e842daf",
+    "assets/trip-travel-phone.svg": "66eb722b718c1081944bc22c721f3a5888a52d9a61b791aeb0747229f5718d6e",
+    "assets/trip-travel.svg": "1a9daa29d84c53f428dfcd75b3e5409a1412a0b914e3fcd363b122e631ea98e0",
+    "blog.yaml": "f87c3d96f4d16c493e777dceacf12edacd85b933344061fadaa2bcc438222c70",
+    "CNAME": "78e8e72f1a966f1743aee4a1a0e09fe01253a7ba0146b02616770ce886f18910",
+    "posts/introducing-mnote.md": "2bbb738ae143ee84478f8489e17503fb5aa31b046bb719867f3c4a67bf609e8e",
+    "posts/plan-a-trip-with-ai.md": "9b9d4eff7bba04d608bfe83278c5c849e6faa028a9d29a4df85bf124718b1cbf",
+    "posts/the-local-loop-behind-an-agentic-blog.md": "344da25278ee20a4b3416bacfa149fc47932a39c9a63a0f2f983106ce422e0f4",
+    "posts/welcome.md": "d4aef833f511c584968372d97af247fa0588ce971db481d221ca5ec783cd7ad6"
+  },
+  "files": {
+    ".github/workflows/deploy.yml": "53cc1ae4bca3008ec5c0cd4fb98b44ef0b7d88c513b8b7c2e5adaa27d7b7f2c7"
+  },
+  "articleRevisions": {},
+  "articleFiles": {},
+  "articleAssets": {}
+}

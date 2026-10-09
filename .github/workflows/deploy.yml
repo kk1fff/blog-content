@@ -35,6 +35,8 @@ jobs:
         env:
           BLOG_CONTENT_DIR: ${{ github.workspace }}/content
           BLOG_OUTPUT_DIR: ${{ github.workspace }}/engine/.agentic-blog/github-pages-dist
+          BLOG_PREVIEW_LOCAL: "0"
+          BLOG_ENGINE_COMMIT: ${{ vars.BLOG_ENGINE_COMMIT }}
           PUBLIC_CLOUDFLARE_WEB_ANALYTICS_TOKEN: ${{ vars.CLOUDFLARE_WEB_ANALYTICS_TOKEN }}
         run: |
           npm ci
