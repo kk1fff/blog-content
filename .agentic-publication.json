@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "publicationId": "bdea21bf8760d389bc53c266071ca94d956ee2f350f4b3ef3ecda656d557801d",
+  "publicationId": "55e5904c62cc7f8900484e7c89d0c9bd231499e4c203f3d5b33072635d50b6c9",
   "engine": {
     "repository": "https://github.com/kk1fff/blog.git",
     "commit": "cbe1be3c61dccfcf9507351f50cc6df9fefdd0a0"
@@ -26,13 +26,20 @@
     "CNAME": "78e8e72f1a966f1743aee4a1a0e09fe01253a7ba0146b02616770ce886f18910",
     "posts/introducing-mnote.md": "2bbb738ae143ee84478f8489e17503fb5aa31b046bb719867f3c4a67bf609e8e",
     "posts/plan-a-trip-with-ai.md": "9b9d4eff7bba04d608bfe83278c5c849e6faa028a9d29a4df85bf124718b1cbf",
+    "posts/simplifying-my-blogs-publishing-flow.md": "226dfb8d85cbb03fb9178677ee5b7522be9e7adfaa59c2079faab19ec37296c0",
     "posts/the-local-loop-behind-an-agentic-blog.md": "344da25278ee20a4b3416bacfa149fc47932a39c9a63a0f2f983106ce422e0f4",
     "posts/welcome.md": "d4aef833f511c584968372d97af247fa0588ce971db481d221ca5ec783cd7ad6"
   },
   "files": {
-    ".github/workflows/deploy.yml": "53cc1ae4bca3008ec5c0cd4fb98b44ef0b7d88c513b8b7c2e5adaa27d7b7f2c7"
+    "posts/simplifying-my-blogs-publishing-flow.md": "226dfb8d85cbb03fb9178677ee5b7522be9e7adfaa59c2079faab19ec37296c0"
   },
-  "articleRevisions": {},
-  "articleFiles": {},
-  "articleAssets": {}
+  "articleRevisions": {
+    "simplifying-my-blogs-publishing-flow": "dc2bd6a7c7cb51e5b5b1ec1ea4a0d54241d579842d3afe9122867704cf790fc8"
+  },
+  "articleFiles": {
+    "simplifying-my-blogs-publishing-flow": "226dfb8d85cbb03fb9178677ee5b7522be9e7adfaa59c2079faab19ec37296c0"
+  },
+  "articleAssets": {
+    "simplifying-my-blogs-publishing-flow": {}
+  }
 }
